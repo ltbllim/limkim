@@ -1,0 +1,57 @@
+@charset "UTF-8";
+
+/* cinzel */
+@font-face {
+    font-family: Cinzel;
+    font-style: normal;
+    font-weight: 400;
+    src: local(※), url('../fonts/cinzel-v11-latin-regular.woff') format('woff'), /* Modern Browsers */
+  }
+  @font-face {
+    font-family: Cinzel;
+    font-style: normal;
+    font-weight: 500;
+    src: local(※), url('../fonts/cinzel-v11-latin-500.woff') format('woff'), /* Modern Browsers */
+  }
+  @font-face {
+    font-family: Cinzel;
+    font-style: normal;
+    font-weight: 600;
+    src: local(※), url('../fonts/cinzel-v11-latin-600.woff') format('woff'), /* Modern Browsers */
+  }
+  @font-face {
+    font-family: Cinzel;
+    font-style: normal;
+    font-weight: 700;
+    src: local(※), url('../fonts/cinzel-v11-latin-700.woff') format('woff'), /* Modern Browsers */
+  }
+  /* cinzel-800 - latin */
+  @font-face {
+    font-family: Cinzel;
+    font-style: normal;
+    font-weight: 800;
+    src: local(※), url('../fonts/cinzel-v11-latin-800.woff') format('woff'), /* Modern Browsers */
+  }
+  @font-face {
+    font-family: Cinzel;
+    font-style: normal;
+    font-weight: 900;
+    src: local(※), url('../fonts/cinzel-v11-latin-900.woff') format('woff'), /* Modern Browsers */
+  }
+
+/* notosans */
+@font-face{ 
+    font-family: NotoSans;
+    font-weight: 400;
+    src: local(※), url(../fonts/NotoSansKR-Regular.woff) format('woff');
+}
+@font-face{
+    font-family: NotoSans; 
+    font-weight: 500;
+    src: local(※), url(../fonts/NotoSansKR-Medium.woff) format('woff');
+}
+@font-face{
+    font-family: NotoSans; 
+    font-weight: 700;
+    src: local(※), url(../fonts/NotoSansKR-Bold.woff) format('woff');
+}
